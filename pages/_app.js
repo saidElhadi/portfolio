@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 import WatsonState from "../src/context/Context";
 import PreLoader from "../src/layout/PreLoader";
 import WatsonHead from "../src/layout/WatsonHead";
