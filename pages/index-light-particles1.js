@@ -1,4 +1,4 @@
-import React, { useContext, useEffect } from "react";
+import React, { useContext, useEffect, useState } from "react";
 import BannerContent from "../src/components/BannerContent";
 import ParticlesBackground from "../src/components/ParticlesBackground";
 import { WatsonContext } from "../src/context/Context";
