@@ -1,0 +1,14 @@
+{
+  "..\\src\\layout\\Layout.js -> ../components/About": {
+    "id": "..\\src\\layout\\Layout.js -> ../components/About",
+    "files": [
+      "static/chunks/src_components_About_js.js"
+    ]
+  },
+  "..\\src\\layout\\Layout.js -> ../components/PortfolioIsotope": {
+    "id": "..\\src\\layout\\Layout.js -> ../components/PortfolioIsotope",
+    "files": [
+      "static/chunks/src_components_PortfolioIsotope_js.js"
+    ]
+  }
+}

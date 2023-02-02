@@ -1,0 +1,41 @@
+@import "swiper/css";
+@import "swiper/css/navigation";
+@import "swiper/css/pagination";
+@import "swiper/css/scrollbar";
+@import "swiper/css/effect-fade";
+
+/* image popup */
+img.mfp-img {
+  box-shadow: 0 0 8px rgb(0 0 0 / 60%);
+  position: absolute;
+  max-height: 392px;
+  padding: 0 !important;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.mfp-img-container .mfp-content {
+  max-width: 400px !important;
+}
+.mfp-img-container .mfp-close {
+  top: -110px;
+  right: -24px;
+}
+
+.google {
+  filter: grayscale(1);
+  position: relative;
+  height: 200px;
+}
+.google iframe {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+#slides,
+#slides .swiper,
+#slides img {
+  height: 100%;
+}
