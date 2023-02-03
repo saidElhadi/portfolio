@@ -1,7 +1,7 @@
-import IndexDarkParticles1 from "../src/pageTemplates/index-dark-particles1";
+import IndexDark from "../src/pageTemplates/index-dark";
 
 export default function Index  () {
-  return <IndexDarkParticles1/>
+  return <IndexDark/>
 
 };
 
