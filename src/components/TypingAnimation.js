@@ -10,11 +10,13 @@ const TypingAnimation = ({ data }) => {
       strings: data
         ? data
         : [
+            "Freelancer",
+            "Software Engineer",
             "Web Developer",
             "Digital Marketer"
           ], // Strings to display
       typeSpeed: 100,
-      backSpeed: 100,
+      backSpeed: 50,
       backDelay: 100,
       smartBackspace: true,
       loop: true,

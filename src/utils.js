@@ -32,7 +32,7 @@ export const simpleBar = () => {
 export const defaultPageAnimationByPageName = {
   indexDark: 4,
   indexDarkSlider: 32,
-  indexDarkParticles1: 42,
+  indexDarkParticles1: 12,
   indexDarkParticles2: 12,
   indexDarkHtml5Video: 36,
   indexDarkYoutubeVideo: 36,
