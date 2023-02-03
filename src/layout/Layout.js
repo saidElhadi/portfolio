@@ -34,7 +34,7 @@ const Layout = ({ children, noContent }) => {
     <Fragment>
       <VideoPopup />
       <ImageView />
-      <ThemeOptions />
+      {/* <ThemeOptions /> */}
       <div id="page">
         <Sidebar />
         <div id="main" className="site-main">
