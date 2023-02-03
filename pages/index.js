@@ -2,9 +2,9 @@ import { Fragment, useEffect } from "react";
 import IndexDarkParticles2 from "../src/pageTemplates/index-dark-particles2";
 
 const Index = () => {
-  useEffect(() => {
-    document.querySelector("body").classList.add("demo-main");
-  }, []);
+  // useEffect(() => {
+  //   document.querySelector("body").classList.add("demo-main");
+  // }, []);
 
   return (
     <IndexDarkParticles2/>
