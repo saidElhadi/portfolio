@@ -1,6 +1,7 @@
 import { aboutMeInfo } from "../data/protfolioData";
 import SectionContainer from "../layout/SectionContainer";
 const Contact = () => {
+  
   return (
     <SectionContainer
       pageId="contact"

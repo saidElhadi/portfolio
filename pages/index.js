@@ -1,6 +1,5 @@
 import { Fragment, useEffect } from "react";
-import IndexLightParticles1 from "./index-light-particles1";
-import IndexDarkParticles2 from "./index-dark-particles2";
+import IndexDarkParticles2 from "../src/pageTemplates/index-dark-particles2";
 
 const Index = () => {
   useEffect(() => {
