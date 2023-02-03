@@ -30,7 +30,7 @@ export const simpleBar = () => {
 };
 
 export const defaultPageAnimationByPageName = {
-  indexDark: 4,
+  indexDark: 12,
   indexDarkSlider: 32,
   indexDarkParticles1: 12,
   indexDarkParticles2: 12,
