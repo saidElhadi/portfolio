@@ -41,7 +41,11 @@ const Sidebar = () => {
                 <li key={menu.id}>
                   <a
                     href={`#${menu.href}`}
-                    onClick={() => changeSection(menu.href)}
+                    onClick={() => {
+                      changeSection(menu.href)
+                      setToggle(!toggle)
+                    }}
+
                     className={`pt-link ${
                       menu.href === section ? "active" : ""
                     }`}
