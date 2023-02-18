@@ -1,4 +1,6 @@
+import Image from "next/image";
 import SectionContainer from "../../layout/SectionContainer";
+import me from '/public/img/blog/me.jpg'
 const LeaveComment = () => {
   return (
     <div className="comment-form col-lg-8 offset-lg-2">
@@ -228,6 +230,7 @@ export const BlogDetails1 = () => {
                 engineering as a career and what makes it such a rewarding
                 field.
               </p>
+              <Image src={me}/>
               <p>
                 First and foremost, software engineering offers a level of
                 creativity that is unmatched by any other career. Whether it's
