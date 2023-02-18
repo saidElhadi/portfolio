@@ -7,7 +7,7 @@ export const aboutMeInfo = {
   age: myAge,
   residence: "Zhengzhou, China",
   address: "High-Tech Zone, Zhongyuan",
-  email: "sayid_ehd2411@outlook.com",
+  email: "said.elhadi1080@gmail.com",
   phone: "(+86) 187 3815 1061",
   freelance: true,
 
