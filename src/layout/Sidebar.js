@@ -7,7 +7,7 @@ const menus = [
   { id: 1, icon: "lnr lnr-home", name: "Home", href: "home" },
   { id: 2, icon: "lnr lnr-user", name: "About Me", href: "about" },
   { id: 3, icon: "lnr lnr-license", name: "Resume", href: "resume" },
-  { id: 4, icon: "lnr lnr-briefcase", name: "Portfolio", href: "portfolio" },
+  // { id: 4, icon: "lnr lnr-briefcase", name: "Portfolio", href: "portfolio" },
   { id: 5, icon: "lnr lnr-book", name: "Blog", href: "blog" },
   { id: 6, icon: "lnr lnr-envelope", name: "Contact", href: "contact" },
 ];
